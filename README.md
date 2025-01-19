@@ -1,6 +1,6 @@
 # 90_North_Django
 
-Steps for running the Project:-
+### **Steps for Running the AWS Django Project**
 
 1. Activate Your Virtual Environment
 Before running the Django development server, you need to activate your virtual environment (if you have one).
